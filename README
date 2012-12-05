@@ -1,0 +1,13 @@
+
+INSTALL
+
+1. Copy files to the phone and run make install on Android.
+2. Append these lines to /etc/init.local.rc to register MuninDroid service:
+
+---
+# MuninDroid
+service munin-node /system/bin/logwrapper /data/system/munin/munin-node.sh   
+        user root
+        group root
+---
+
