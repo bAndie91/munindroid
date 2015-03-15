@@ -1,3 +1,10 @@
+A set of scripts using unix toolbox serve Android system stats for Munin monitoring.
+You will need busybox (or other software providing standard unix commands) installed.
+
+Example graphs:
+
+![graph1](http://i.imgur.com/JHLUK.png)
+![graph2](http://i.imgur.com/NmK7o.png)
 
 INSTALL
 
