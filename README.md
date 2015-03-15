@@ -6,16 +6,16 @@ You will need busybox (or other software providing standard unix commands) insta
   * sh
   * bash (>=4.0)
   * busybox
-    ** nc (netcat)
-    ** awk
-    ** sed
-    ** sort
-    ** uniq
-    ** sleep
-    ** df
-    ** cat
-    ** expr
-    ** grep
+   * nc (netcat)
+   * awk
+   * sed
+   * sort
+   * uniq
+   * sleep
+   * df
+   * cat
+   * expr
+   * grep
 
 # INSTALL
 
