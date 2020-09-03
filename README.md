@@ -31,3 +31,6 @@ service munin-node /system/bin/logwrapper /data/system/munin/munin-node.sh
 # Example graphs
 ![graph1](http://i.imgur.com/JHLUK.png)
 ![graph2](http://i.imgur.com/NmK7o.png)
+
+# issues
+Please submit issues via PR to some file `issue/TITLE.txt`.
